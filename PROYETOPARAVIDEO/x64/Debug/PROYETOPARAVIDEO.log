@@ -1,0 +1,38 @@
+﻿  PROYETOPARAVIDEO.cpp
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\KardexV2Vector.h(56,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\productoVector.h(50,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\vendedorVector.h(43,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\UsuarioVersion2Vector.h(44,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\clienteVector.h(51,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\clienteVectorEntidad.h(51,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(127,6): warning C4101: 'opcionPrueuba': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(630,7): warning C4101: 'cod': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(774,30): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(775,41): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1121,39): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1122,39): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(997,7): warning C4101: 'elsaldoValor': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(991,7): warning C4101: 'elvalorUnitario': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(996,7): warning C4101: 'elsaldoCant': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(994,7): warning C4101: 'elentradaValor': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1002,7): warning C4101: 'valorInventairo': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1176,7): warning C4101: 'valorEntradaCompra': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1163,7): warning C4101: 'elprecioProducto': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1170,7): warning C4101: 'elsaldoValor': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1167,7): warning C4101: 'lasalidaValor': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1174,7): warning C4101: 'precioModificado': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1164,7): warning C4101: 'elvalorUnitario': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1169,7): warning C4101: 'elsaldoCant': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1175,7): warning C4101: 'valorInventairo': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1730,59): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1732,59): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1741,43): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1566,7): warning C4101: 'valorEntradaCompra': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1551,7): warning C4101: 'elprecioProducto': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1558,7): warning C4101: 'elsaldoValor': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1555,7): warning C4101: 'lasalidaValor': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1564,7): warning C4101: 'precioModificado': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1552,7): warning C4101: 'elvalorUnitario': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1557,7): warning C4101: 'elsaldoCant': variable local sin referencia
+C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO\PROYETOPARAVIDEO.cpp(1565,7): warning C4101: 'valorInventairo': variable local sin referencia
+  PROYETOPARAVIDEO.vcxproj -> C:\Users\Jesus\Desktop\CODIGO PARA VIDEO\PROYETOPARAVIDEO\x64\Debug\PROYETOPARAVIDEO.exe
